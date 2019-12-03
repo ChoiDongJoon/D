@@ -1,3 +1,4 @@
 # D
 Soongsil University
-Choi Dong Joon
+최 동 준
+전자정보공학부
